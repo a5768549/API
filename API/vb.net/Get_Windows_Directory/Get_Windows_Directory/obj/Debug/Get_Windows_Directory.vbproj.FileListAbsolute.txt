@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\bin\Debug\Get_Windows_Directory.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\bin\Debug\Get_Windows_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\bin\Debug\Get_Windows_Directory.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\bin\Debug\Get_Windows_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Directory\Get_Windows_Directory\obj\Debug\Get_Windows_Directory.vbprojAssemblyReference.cache

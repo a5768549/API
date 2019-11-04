@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\bin\Debug\Get_UserName.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\bin\Debug\Get_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\bin\Debug\Get_UserName.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\bin\Debug\Get_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_UserName\Get_UserName\obj\Debug\Get_UserName.pdb

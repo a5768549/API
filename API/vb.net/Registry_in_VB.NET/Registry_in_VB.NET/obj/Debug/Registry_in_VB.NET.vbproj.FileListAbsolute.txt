@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\bin\Debug\Registry_in_VB.NET.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\bin\Debug\Registry_in_VB.NET.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\bin\Debug\Registry_in_VB.NET.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\bin\Debug\Registry_in_VB.NET.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_in_VB.NET\Registry_in_VB.NET\obj\Debug\Registry_in_VB.NET.pdb

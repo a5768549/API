@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\bin\Debug\Get_Mouse_Button.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\bin\Debug\Get_Mouse_Button.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\bin\Debug\Get_Mouse_Button.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\bin\Debug\Get_Mouse_Button.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Button\Get_Mouse_Button\obj\Debug\Get_Mouse_Button.pdb

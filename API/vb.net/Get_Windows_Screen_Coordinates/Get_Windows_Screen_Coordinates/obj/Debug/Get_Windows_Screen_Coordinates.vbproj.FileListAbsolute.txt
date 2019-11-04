@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\bin\Debug\Get_Windows_Screen_Coordinates.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\bin\Debug\Get_Windows_Screen_Coordinates.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\bin\Debug\Get_Windows_Screen_Coordinates.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\bin\Debug\Get_Windows_Screen_Coordinates.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Windows_Screen_Coordinates\Get_Windows_Screen_Coordinates\obj\Debug\Get_Windows_Screen_Coordinates.vbprojAssemblyReference.cache

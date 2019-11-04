@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\bin\Debug\Get_OneKey.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\bin\Debug\Get_OneKey.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\bin\Debug\Get_OneKey.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\bin\Debug\Get_OneKey.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_OneKey\Get_OneKey\obj\Debug\Get_OneKey.pdb

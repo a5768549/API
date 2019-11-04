@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\bin\Debug\API_test1.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\bin\Debug\API_test1.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\bin\Debug\API_test1.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\bin\Debug\API_test1.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\API_test1\API_test1\obj\Debug\API_test1.pdb

@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\bin\Debug\Get_Mouse_Coordinates.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\bin\Debug\Get_Mouse_Coordinates.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\bin\Debug\Get_Mouse_Coordinates.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\bin\Debug\Get_Mouse_Coordinates.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Mouse_Coordinates\Get_Mouse_Coordinates\obj\Debug\Get_Mouse_Coordinates.pdb

@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\bin\Debug\WMI_Get_Directory.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\bin\Debug\WMI_Get_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\bin\Debug\WMI_Get_Directory.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\bin\Debug\WMI_Get_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Directory\WMI_Get_Directory\obj\Debug\WMI_Get_Directory.pdb

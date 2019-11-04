@@ -1,0 +1,10 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\bin\Debug\WMI_Get_Version.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\bin\Debug\WMI_Get_Version.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\bin\Debug\WMI_Get_Version.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\bin\Debug\WMI_Get_Version.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Version\WMI_Get_Version\obj\Debug\WMI_Get_Version.pdb

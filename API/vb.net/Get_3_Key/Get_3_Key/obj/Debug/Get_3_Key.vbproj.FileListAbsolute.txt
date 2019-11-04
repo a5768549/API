@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\bin\Debug\Get_3_Key.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\bin\Debug\Get_3_Key.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\bin\Debug\Get_3_Key.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\bin\Debug\Get_3_Key.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_3_Key\Get_3_Key\obj\Debug\Get_3_Key.pdb

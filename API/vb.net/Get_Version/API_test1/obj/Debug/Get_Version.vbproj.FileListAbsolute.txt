@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\bin\Debug\Get_Version.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\bin\Debug\Get_Version.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\bin\Debug\Get_Version.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\bin\Debug\Get_Version.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Version\API_test1\obj\Debug\Get_Version.pdb

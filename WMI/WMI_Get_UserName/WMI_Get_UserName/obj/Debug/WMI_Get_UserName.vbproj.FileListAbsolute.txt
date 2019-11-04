@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\bin\Debug\WMI_Get_UserName.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\bin\Debug\WMI_Get_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\bin\Debug\WMI_Get_UserName.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\bin\Debug\WMI_Get_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_UserName\WMI_Get_UserName\obj\Debug\WMI_Get_UserName.pdb

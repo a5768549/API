@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\bin\Debug\WMI_temp.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\bin\Debug\WMI_temp.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\bin\Debug\WMI_temp.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\bin\Debug\WMI_temp.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_temp\WMI_temp\obj\Debug\WMI_temp.pdb

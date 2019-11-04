@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\bin\Debug\Registry_API.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\bin\Debug\Registry_API.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\bin\Debug\Registry_API.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\bin\Debug\Registry_API.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Registry_API\Registry_API\obj\Debug\Registry_API.vbprojAssemblyReference.cache
