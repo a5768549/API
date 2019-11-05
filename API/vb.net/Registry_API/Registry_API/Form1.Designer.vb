@@ -54,7 +54,7 @@ Partial Class Form1
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(132, 38)
         Me.Button1.TabIndex = 1
-        Me.Button1.Text = "開啟註冊檔"
+        Me.Button1.Text = "開啟註冊檔(測試用)"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
@@ -115,7 +115,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(534, 307)
+        Me.ClientSize = New System.Drawing.Size(541, 313)
         Me.Controls.Add(Me.Button6)
         Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.Button5)

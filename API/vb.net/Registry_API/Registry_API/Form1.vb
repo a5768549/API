@@ -64,7 +64,6 @@ Module Module1
             Return NativeMethods.RegCloseKey(Me.handle) = 0
         End Function
 
-
     End Class
 
     Private Enum RegSam
@@ -171,38 +170,29 @@ Module Module1
         ByVal lpSubKey As String) As Integer
         End Function
 
-        <DllImport("advapi32", SetLastError:=True)>
-        Friend Shared Function RegSetValue(
-            ByVal hKey As Integer,
+        <DllImport("advapi32.dll", SetLastError:=True)>
+        Friend Shared Function RegSetValueEx(
+            ByVal hKey As SafeKeyHandle,
             ByVal lpValueName As String,
+            ByVal lpReserved As Integer,
             ByVal lpType As RegType,
             ByVal lpData As String,
             ByVal lpcbData As Integer) As Integer
         End Function
-
-
     End Class
 
-    ' Overloaded, see below
-
-    ' Write a value to a key
     Public Sub SetValue(ByVal Name As String, ByVal Value As Object)
-        Dim gch As SafeKeyHandle = Nothing
+        Dim gch As SafeKeyHandle
         Dim ptr As IntPtr
         Dim ret, Size As Integer
 
         Dim temp As String = CStr(Value)
         Size = (temp.Length + 1) * Marshal.SystemDefaultCharSize
-        ptr = Marshal.StringToHGlobalAuto(temp)
-        ' let's do it!
+        'ptr = Marshal.StringToHGlobalAuto(temp)
 
         If NativeMethods.RegOpenKeyEx(PredefinedKeys.HKEY_CURRENT_USER, "Software\YourCompany\YourApplication", 0, RegSam.KEY_WRITE, gch) = 0 Then
-            NativeMethods.RegSetValue(PredefinedKeys.HKEY_CURRENT_USER, Name, RegType.REG_SZ, ptr, Size)
+            ret = NativeMethods.RegSetValueEx(gch, Name, 0, RegType.REG_SZ, temp, Size)
         End If
-        If ret <> 0 Then
-            Throw New Win32Exception(ret)
-        End If
-
         gch.Dispose()
     End Sub
     Sub CreateRegistryKey(ByVal hKey As Integer, ByVal KeyName As String)
