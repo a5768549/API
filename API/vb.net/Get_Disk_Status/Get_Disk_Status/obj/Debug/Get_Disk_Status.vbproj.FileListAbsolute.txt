@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\bin\Debug\Get_Disk_Status.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\bin\Debug\Get_Disk_Status.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\bin\Debug\Get_Disk_Status.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\bin\Debug\Get_Disk_Status.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Disk_Status\Get_Disk_Status\obj\Debug\Get_Disk_Status.pdb

@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\bin\Debug\Get_CPU_Type.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\bin\Debug\Get_CPU_Type.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\bin\Debug\Get_CPU_Type.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\bin\Debug\Get_CPU_Type.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_CPU_Type\Get_CPU_Type\obj\Debug\Get_CPU_Type.pdb

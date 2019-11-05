@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Get_Computer_Time", "Get_Computer_Time\Get_Computer_Time.vbproj", "{B942A882-F692-46B1-88D4-9DE9021BE5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B942A882-F692-46B1-88D4-9DE9021BE5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B942A882-F692-46B1-88D4-9DE9021BE5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B942A882-F692-46B1-88D4-9DE9021BE5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B942A882-F692-46B1-88D4-9DE9021BE5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BFD3AB0-7F8D-49C2-B479-79D68706D641}
+	EndGlobalSection
+EndGlobal

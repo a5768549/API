@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\bin\Debug\Play_wav_File.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\bin\Debug\Play_wav_File.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\bin\Debug\Play_wav_File.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\bin\Debug\Play_wav_File.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Play_wav_File\Play_wav_File\obj\Debug\Play_wav_File.vbprojAssemblyReference.cache

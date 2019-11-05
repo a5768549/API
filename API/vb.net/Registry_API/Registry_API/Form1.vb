@@ -171,8 +171,7 @@ Module Module1
         End Function
 
         <DllImport("advapi32.dll", SetLastError:=True)>
-        Friend Shared Function RegSetValueEx(
-            ByVal hKey As SafeKeyHandle,
+        Friend Shared Function RegSetValueEx(ByVal hKey As SafeKeyHandle,
             ByVal lpValueName As String,
             ByVal lpReserved As Integer,
             ByVal lpType As RegType,
@@ -185,6 +184,52 @@ Module Module1
         Dim gch As SafeKeyHandle
         Dim ptr As IntPtr
         Dim ret, Size As Integer
+        'Dim temp() As Byte                                     //Binary
+        'temp = DirectCast(Value, System.Byte())                
+        'Size = temp.Length
+        'gch = GCHandle.Alloc(temp, GCHandleType.Pinned)
+        'ptr = Marshal.UnsafeAddrOfPinnedArrayElement(temp, 0)
+
+        'Dim temp As Integer = CInt(Value)                      //DWORD
+        'Size = 4
+        'ptr = Marshal.AllocHGlobal(Size)
+        'Marshal.WriteInt32(ptr, 0, temp)
+
+        'Dim temp As String = CStr(Value)                       //ExpandString
+        'Size = (temp.Length + 1) * Marshal.SystemDefaultCharSize
+        'ptr = Marshal.StringToHGlobalAuto(temp)
+
+        'Dim temp, lines() As String                            //MultiString
+        'Dim index As Integer
+        'lines = DirectCast(Value, System.String())
+
+        ' Calculate the total size, including the terminating null
+        'Size = 0
+        'For Each temp In lines
+        'Size += (temp.Length + 1) * Marshal.SystemDefaultCharSize
+        'Next
+        'Size += Marshal.SystemDefaultCharSize
+        'ptr = Marshal.AllocHGlobal(Size)
+
+        'Index = 0
+        'For Each temp In lines
+        'Dim tempPtr As IntPtr
+        'Dim tempArray() As Char
+
+        'tempArray = temp.ToCharArray
+        'tempPtr = New IntPtr(ptr.ToInt64 + index)
+        'Marshal.Copy(tempArray, 0, tempPtr, tempArray.Length)
+        'Index += (tempArray.Length + 1) * Marshal.SystemDefaultCharSize
+        'Next
+
+        'Dim temp As Long = CLng(Value)                             //QWORD
+        'Size = 8
+        'ptr = Marshal.AllocHGlobal(Size)
+        'Marshal.WriteInt64(ptr, 0, temp)
+
+        'Dim temp As String = CStr(Value)                           //String
+        'Size = (temp.Length + 1) * Marshal.SystemDefaultCharSize
+        'ptr = Marshal.StringToHGlobalAuto(temp)
 
         Dim temp As String = CStr(Value)
         Size = (temp.Length + 1) * Marshal.SystemDefaultCharSize

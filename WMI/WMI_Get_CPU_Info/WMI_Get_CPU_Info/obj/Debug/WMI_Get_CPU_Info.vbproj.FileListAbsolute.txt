@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\bin\Debug\WMI_Get_CPU_Info.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\bin\Debug\WMI_Get_CPU_Info.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\bin\Debug\WMI_Get_CPU_Info.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\bin\Debug\WMI_Get_CPU_Info.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_CPU_Info\WMI_Get_CPU_Info\obj\Debug\WMI_Get_CPU_Info.pdb

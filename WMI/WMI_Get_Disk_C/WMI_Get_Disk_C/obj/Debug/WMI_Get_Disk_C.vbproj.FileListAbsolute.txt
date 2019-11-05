@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\bin\Debug\WMI_Get_Disk_C.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\bin\Debug\WMI_Get_Disk_C.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\bin\Debug\WMI_Get_Disk_C.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\bin\Debug\WMI_Get_Disk_C.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_Disk_C\WMI_Get_Disk_C\obj\Debug\WMI_Get_Disk_C.pdb

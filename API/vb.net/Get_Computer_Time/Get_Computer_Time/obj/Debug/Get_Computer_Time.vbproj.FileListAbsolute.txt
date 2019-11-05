@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\bin\Debug\Get_Computer_Time.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\bin\Debug\Get_Computer_Time.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\bin\Debug\Get_Computer_Time.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\bin\Debug\Get_Computer_Time.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_Computer_Time\Get_Computer_Time\obj\Debug\Get_Computer_Time.pdb

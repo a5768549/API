@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\bin\Debug\WMI_Get_IP.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\bin\Debug\WMI_Get_IP.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\bin\Debug\WMI_Get_IP.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\bin\Debug\WMI_Get_IP.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_IP\WMI_Get_IP\obj\Debug\WMI_Get_IP.pdb

@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42104: 變數在獲派值之前就已使用
+dotnet_diagnostic.BC42104.severity = silent
