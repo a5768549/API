@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\bin\Debug\WMI_Get_HID.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\bin\Debug\WMI_Get_HID.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\bin\Debug\WMI_Get_HID.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\bin\Debug\WMI_Get_HID.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Get_HID\WMI_Get_HID\obj\Debug\WMI_Get_HID.pdb

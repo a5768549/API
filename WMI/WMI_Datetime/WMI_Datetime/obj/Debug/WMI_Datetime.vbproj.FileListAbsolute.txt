@@ -5,7 +5,6 @@ C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\bin\Debug\WMI
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.Form1.resources
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.Resources.resources
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.vbproj.GenerateResource.cache
-C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.vbproj.CoreCompileInputs.cache
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.exe
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.xml
 C:\Users\itplayerCR.ITPLAYER\Desktop\WMI\WMI_Datetime\WMI_Datetime\obj\Debug\WMI_Datetime.pdb

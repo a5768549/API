@@ -39,6 +39,6 @@ Dim tmp As Integer
 End Sub
 
 Function OutOfTimeSound()
-    Call sndPlaySound("C:\Users\itplayerCR.ITPLAYER\Music\2.wav", SND_SYNC)
+    Call sndPlaySound("C:\Users\itplayerCR.ITPLAYER\Music\1.wav", SND_LOOP)
 End Function
 
