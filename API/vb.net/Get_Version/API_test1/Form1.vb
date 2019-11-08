@@ -1,6 +1,6 @@
 ﻿
 Public Class Form1
-    Private Declare Function GetVersion Lib "kernel32" () As Long
+    Private Declare Function GetVersion Lib "kernel32" () As Integer
     Public Function GetWinVer() As String
         Dim lngVer As Long, lngWinVer As Long
         lngVer = GetVersion()

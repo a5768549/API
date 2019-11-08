@@ -2,12 +2,12 @@
 Imports System.Text
 
 Public Class Form1
-    Declare Function GetTempPath Lib "kernel32.dll" Alias "GetTempPathA" (ByVal nBufferLength As Long, ByVal lpBuffer As String) As Long
+    Declare Function GetTempPath Lib "kernel32.dll" Alias "GetTempPathA" (ByVal nBufferLength As Integer, ByVal lpBuffer As String) As Integer
 
     Dim temppath As String
-    Dim tempfile As String  ' receives name of temporary file
-    Dim slength As Long  ' receives length of string returned for the path
-    Dim lastfour As Long  ' receives hex value of the randomly assigned ????
+    'Dim tempfile As String  ' receives name of temporary file
+    Dim slength As Integer  ' receives length of string returned for the path
+    'Dim lastfour As Integer  ' receives hex value of the randomly assigned ????
 
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load

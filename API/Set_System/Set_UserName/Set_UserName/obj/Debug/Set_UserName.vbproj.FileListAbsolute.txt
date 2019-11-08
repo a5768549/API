@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\bin\Debug\Set_UserName.exe.config
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\bin\Debug\Set_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\bin\Debug\Set_UserName.pdb
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\bin\Debug\Set_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.exe
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.xml
+C:\Users\itplayerCR.ITPLAYER\source\repos\Set_UserName\Set_UserName\obj\Debug\Set_UserName.pdb

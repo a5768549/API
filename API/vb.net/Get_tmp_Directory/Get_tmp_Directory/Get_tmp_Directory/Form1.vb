@@ -2,7 +2,7 @@
 Imports System.Text
 
 Public Class Form1
-    Declare Function GetTempPath Lib "kernel32.dll" Alias "GetTempPathA" (ByVal nBufferLength As Long, ByVal lpBuffer As String) As Long
+    Declare Function GetTempPath Lib "kernel32.dll" Alias "GetTempPathA" (ByVal nBufferLength As Long, ByVal lpBuffer As String) As Integer
 
     Dim temppath As String
     Dim tempfile As String  ' receives name of temporary file

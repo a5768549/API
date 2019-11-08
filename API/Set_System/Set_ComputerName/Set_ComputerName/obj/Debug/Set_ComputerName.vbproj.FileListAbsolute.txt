@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\bin\Debug\Set_ComputerName.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\bin\Debug\Set_ComputerName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\bin\Debug\Set_ComputerName.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\bin\Debug\Set_ComputerName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\Set_System\Set_ComputerName\Set_ComputerName\obj\Debug\Set_ComputerName.pdb

@@ -6,7 +6,7 @@ Public Class Form1
     Shared Function GetWindowsDirectory(<MarshalAs(UnmanagedType.LPTStr)> lpBuffer As System.Text.StringBuilder,
                    uSize As UInteger) As UInteger
     End Function
-    Shared Function wins() As String
+    Shared Function wins()
         Dim sb As StringBuilder = New StringBuilder(100)
         Dim f As UInteger = 100
         GetWindowsDirectory(sb, f)

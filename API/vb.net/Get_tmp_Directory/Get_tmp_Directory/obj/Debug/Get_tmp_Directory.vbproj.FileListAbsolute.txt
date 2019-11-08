@@ -9,3 +9,14 @@ C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Direct
 C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.xml
 C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.pdb
 C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\bin\Debug\Get_tmp_Directory.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\bin\Debug\Get_tmp_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\bin\Debug\Get_tmp_Directory.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\bin\Debug\Get_tmp_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_tmp_Directory\Get_tmp_Directory\obj\Debug\Get_tmp_Directory.pdb

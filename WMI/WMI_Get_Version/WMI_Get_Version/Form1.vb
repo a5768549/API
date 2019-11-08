@@ -5,9 +5,9 @@ Public Class Form1
         Try
             Dim searcher As New ManagementObjectSearcher("root\cimv2", "SELECT * FROM Win32_OperatingSystem")
             For Each queryObj As ManagementObject In searcher.Get()
-                Dim BuildNumber As String = CDbl(queryObj("BuildNumber"))
-                Dim Caption As String = queryObj("Caption")
-                Dim Version As String = queryObj("Version")
+                Dim BuildNumber As String = CDbl(queryObj("BuildNumber")) '建構碼
+                Dim Caption As String = queryObj("Caption") '版本名稱
+                Dim Version As String = queryObj("Version") '版本號
                 TextBox1.Text = ""
                 TextBox1.Text &= "BuildNumber：" & BuildNumber & vbNewLine
                 TextBox1.Text &= "Caption：" & Caption & vbNewLine
