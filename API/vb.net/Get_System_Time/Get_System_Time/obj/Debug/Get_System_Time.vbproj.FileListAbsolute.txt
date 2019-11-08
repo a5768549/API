@@ -1,0 +1,11 @@
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.vbprojAssemblyReference.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.Form1.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.Resources.resources
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.vbproj.GenerateResource.cache
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\bin\Debug\Get_System_Time.exe.config
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\bin\Debug\Get_System_Time.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\bin\Debug\Get_System_Time.pdb
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\bin\Debug\Get_System_Time.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.exe
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.xml
+C:\Users\itplayerCR.ITPLAYER\Desktop\API\vb.net\Get_System_Time\Get_System_Time\obj\Debug\Get_System_Time.pdb
