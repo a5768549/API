@@ -1,0 +1,12 @@
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\bin\Debug\fileopen_read_write.exe.config
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\bin\Debug\fileopen_read_write.exe
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\bin\Debug\fileopen_read_write.pdb
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\bin\Debug\fileopen_read_write.xml
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.vbprojAssemblyReference.cache
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.Form1.resources
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.Resources.resources
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.vbproj.GenerateResource.cache
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.vbproj.CoreCompileInputs.cache
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.exe
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.xml
+C:\Users\a5768\Documents\VB TMP\fileopen_read_write\fileopen_read_write\obj\Debug\fileopen_read_write.pdb

@@ -1,0 +1,12 @@
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\bin\Debug\cmd_openfile.exe.config
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\bin\Debug\cmd_openfile.exe
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\bin\Debug\cmd_openfile.pdb
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\bin\Debug\cmd_openfile.xml
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.vbprojAssemblyReference.cache
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.Form1.resources
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.Resources.resources
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.vbproj.GenerateResource.cache
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.vbproj.CoreCompileInputs.cache
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.exe
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.xml
+C:\Users\a5768\Documents\VB TMP\cmd_openfile\cmd_openfile\obj\Debug\cmd_openfile.pdb

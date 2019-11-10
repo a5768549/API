@@ -1,0 +1,12 @@
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\bin\Debug\cmd_WriteFile.exe.config
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\bin\Debug\cmd_WriteFile.exe
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\bin\Debug\cmd_WriteFile.pdb
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\bin\Debug\cmd_WriteFile.xml
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.vbprojAssemblyReference.cache
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.Form1.resources
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.Resources.resources
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.vbproj.GenerateResource.cache
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.vbproj.CoreCompileInputs.cache
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.exe
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.xml
+C:\Users\a5768\Documents\VB TMP\cmd_WriteFile\cmd_WriteFile\obj\Debug\cmd_WriteFile.pdb
